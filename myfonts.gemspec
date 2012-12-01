@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Myfonts::VERSION
   gem.authors       = ["David Moulton"]
   gem.email         = ["dave@themoultons.net"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Demo gem for icon fonts}
+  gem.summary       = %q{This gem provides a few icons as a demo of how to create icon fonts for use in rails}
   gem.homepage      = ""
 
   gem.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
